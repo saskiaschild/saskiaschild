@@ -13,6 +13,9 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
 <h4>Frameworks</h4>
 <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&labelColor=black&logo=symfony&logoColor=FFFFFF" alt="Symfony Badge" />
 <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React Badge" />
+  
+<h4>Database</h4>
+<img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=003545" alt="MariaDB Badge" />
 </details>
 
 #### Profile Visits
