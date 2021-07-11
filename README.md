@@ -17,10 +17,12 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
   
 <h4>Database</h4>
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=003545" alt="MariaDB Badge" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D" alt="Redis" />
   
 <h4>Dev Ops</h4>
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939" alt="Jenkins Badge" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED" alt="Docker Badge" />
+<img src="https://img.shields.io/badge/-Vagrant-1868F2?style=for-the-badge&labelColor=black&logo=vagrant&logoColor=1868F2" alt="Vagrant Badge" />
 </details>
 
 #### Profile Visits
