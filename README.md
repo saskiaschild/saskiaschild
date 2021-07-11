@@ -8,3 +8,5 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
 
 ### Stats
 ![Saskia's GitHub stats](https://github-readme-stats.vercel.app/api?username=saskiaschild&show_icons=true&theme=radical)
+
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=saskiaschild.saskiaschild)](#)
