@@ -9,6 +9,7 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&labelColor=black&logo=php&logoColor=8892BF" alt="PHP Badge"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" alt="TypeScript Badge" />
 
 <h4>Frameworks</h4>
 <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&labelColor=black&logo=symfony&logoColor=FFFFFF" alt="Symfony Badge" />
