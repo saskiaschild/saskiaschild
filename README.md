@@ -35,16 +35,3 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
 <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=A81D33" alt="Debian Badge" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6" alt="Debian Badge" />
 </details>
-
-#### Tech Stack
-<details>
-<summary>Click to expand ...</summary>
-<table>
-<tr>
-<td>Foo</td>
-<td><img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&labelColor=black&logo=php&logoColor=8892BF" alt="PHP Badge"/></td>
-<td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" /></td>
-<td><img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" alt="TypeScript Badge" /></td>
-</tr>
-</table>
-</details>
