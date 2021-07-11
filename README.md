@@ -24,6 +24,10 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939" alt="Jenkins Badge" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED" alt="Docker Badge" />
 <img src="https://img.shields.io/badge/-Vagrant-1868F2?style=for-the-badge&labelColor=black&logo=vagrant&logoColor=1868F2" alt="Vagrant Badge" />
+  
+<h4>OS</h4>
+<img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=A81D33" alt="Debian Badge" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6" alt="Debian Badge" />
 </details>
 
 #### Profile Visits
