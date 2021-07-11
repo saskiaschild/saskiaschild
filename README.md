@@ -3,8 +3,9 @@
 I'm a full stack web developer based in beautiful Salzburg, Austria.
 
 #### Tech Stack
+
 <details>
-    <summary>Click to expand</summary>
+    <summary>Click to expand ...</summary>
     
     <h4>Languages</h4>
     <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&labelColor=black&logo=php&logoColor=8892BF" alt="PHP Badge"/>
