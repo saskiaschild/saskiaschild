@@ -13,9 +13,14 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
 <h4>Frameworks</h4>
 <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&labelColor=black&logo=symfony&logoColor=FFFFFF" alt="Symfony Badge" />
 <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React Badge" />
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031" alt="Angular Badge" />
   
 <h4>Database</h4>
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=003545" alt="MariaDB Badge" />
+  
+<h4>Dev Ops</h4>
+<img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939" alt="Jenkins Badge" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED" alt="Docker Badge" />
 </details>
 
 #### Profile Visits
