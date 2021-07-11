@@ -7,6 +7,7 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
     <h4>Used Technologies</h4>
 </summary>
   <h4>Languages</h4>
+    <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&labelColor=black&logo=php&logoColor=8892BF" alt="PHP Badge"/>
   [![PHP Badge](https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&labelColor=black&logo=php&logoColor=8892BF)](#)
   [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
   
