@@ -35,5 +35,3 @@ I'm a full stack web developer based in beautiful Salzburg, Austria.
 <img src="https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=A81D33" alt="Debian Badge" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6" alt="Debian Badge" />
 </details>
-
-This was edited from my own hosted vscode server.
